@@ -1,0 +1,11 @@
+numpy<2
+scipy
+# brew install suite-sparse
+scikit-sparse
+
+# https://github.com/symforce-org/symforce
+# from setuptools import _distutils as distutils
+# pip install -e .
+
+# https://github.com/isl-org/Open3D.git
+# make pip-package

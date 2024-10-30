@@ -1,0 +1,11 @@
+#+TITLE: pgo
+
+[[vis][file:./vis.png]]
+
+* reference
+
+[[https://github.com/gisbi-kim/nano-pgo][nano-pgo]]
+
+[[http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf][A tutorial on graph-based SLAM]]
+
+[[https://dellaert.github.io/files/Carlone15icra1.pdf][Initialization techniques for 3D SLAM]]
